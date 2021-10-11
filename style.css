@@ -1,3 +1,5 @@
+/********************************************************************
+
 # Front-end Style Guide
 
 ## Layout
@@ -33,3 +35,20 @@ Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
 
 - Family: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display)
 - Weights: 700
+
+*********************************************************************************************************/
+
+/********************************/
+/*** BASE STYLE ***/
+/********************************/
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  
+}
