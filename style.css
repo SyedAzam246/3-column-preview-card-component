@@ -127,13 +127,13 @@ main {
   background-repeat: no-repeat;
 }
 .img--1 {
-  background-image: url("/images/icon-sedans.svg");
+  background-image: url("images/icon-sedans.svg");
 }
 .img--2 {
-  background-image: url("/images/icon-suvs.svg");
+  background-image: url("images/icon-suvs.svg");
 }
 .img--3 {
-  background-image: url("/images/icon-luxury.svg");
+  background-image: url("images/icon-luxury.svg");
 }
 
 /********************************/
